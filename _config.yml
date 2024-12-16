@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "户战选"
+  name             : "Zhanxuan Hu(户战选)"
   avatar           : "images/hzx.jpg"
   bio              : "云南师范大学"
   location         : "昆明, 中国"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=5z09EL0AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "zhanxuanhu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
