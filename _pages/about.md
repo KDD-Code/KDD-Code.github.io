@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我的研究兴趣主要包括机器学习、计算机视觉和时间序列分析中的标签高效任务，例如无监督学习、半监督学习和自监督学习。此外，我还致力于将这些方法应用于解决地球科学问题。
+My research interests mainly include label-efficient tasks in Machine Learning, Computer vision, and Time series analysis, such as unsupervised learning, semi-supervised learning, 
+  and self-supervised learning. Besides, I work on applying these methods to solving Geoscience problems.
 
 # 📖 Educations
-- *2017.09 - 2021.06*, 导师：聂飞平教授,人工智能与光学电子学院（iOPEN）,西北工业大学. 
-- *2011.09 - 2015.06*, B.E.大庆师范学院.
+- *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie,School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
+- *2011.09 - 2015.06*, B.E.Daqing Normal University.
 
 # 💻 Collaboration
 - Machine Learing, Computer vision and Time series analysis Prof. Feiping Nie
@@ -45,6 +46,10 @@ redirect_from:
 - [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, accepted by Information Sciences (**INS**), 2021.
 
 - [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, accepted by Information Sciences (**INS**), 2021.
+
+# 🎖 Research Projects
+- *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究,国家自然科学基金,青年项目(30 万,参与);
+- *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (97.438 万,参与);
 
 # 📖 Group
 - 李嘉瀚
