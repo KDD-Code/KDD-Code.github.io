@@ -21,6 +21,8 @@ I am currently an associate professor in School of Information Science and Techn
 
 I’m always looking for self-motivated master students and undergraduate intern. If you’re interested, please feel free to contact me by email.
 
+# 🎖 Research Interests
+
 # 📖 Educations
 - *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie,School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
 - *2011.09 - 2015.06*, B.E.Daqing Normal University.
