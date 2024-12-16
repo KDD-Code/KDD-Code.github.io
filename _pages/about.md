@@ -47,4 +47,9 @@ redirect_from:
 - [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, accepted by Information Sciences (**INS**), 2021.
 
 # 📖 课题组
+- 李嘉瀚
+
+- 黄鑫
+
+- 邓禧丽
 
