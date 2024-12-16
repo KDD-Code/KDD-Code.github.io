@@ -28,6 +28,9 @@ Our team’s research interests focus on the following areas:
 3. Applications of artificial intelligence in bioinformatics；
 4. Applications of artificial intelligence in geophysics；
 
+# 🔥 Services 
+- Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, etc.
+
 # 📖 Educations
 - *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie,School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
 - *2011.09 - 2015.06*, B.E.Daqing Normal University.
