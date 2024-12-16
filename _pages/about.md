@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests mainly include label-efficient tasks in Machine Learning, Computer vision, and Time series analysis, such as unsupervised learning, semi-supervised learning, 
-  and self-supervised learning. Besides, I work on applying these methods to solving Geoscience problems.
+I am currently an associate professor in School of Information Science and Technology at Yunnan Normal University, start from spring 2024. Before that, I was an associate professor at School of Computer Science and Technology,  Xi’an University of Posts and Telecommunications. I received the Ph.D. degree in Computer Science at Northwestern Polytechnical University in 2021, and received the B.E. degree in Electronic Information Engineering at Daqing Normal University in 2015.
+
+I’m always looking for self-motivated master students and undergraduate intern. If you’re interested, please feel free to contact me by email.
 
 # 📖 Educations
 - *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie,School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
