@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "关于我"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "选取的发表文献"
+    url: "/#-selected-publications"
 
   - title: "Educations"
     url: "/#-educations"

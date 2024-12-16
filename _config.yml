@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhanxuan Hu"
+title                    : "户战选"
 description              : "云南师范大学副教授"
 repository               : "kdd-code/kdd-code.github.io"
 google_scholar_stats_use_cdn : true
