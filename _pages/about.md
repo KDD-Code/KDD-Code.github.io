@@ -22,6 +22,11 @@ I am currently an associate professor in School of Information Science and Techn
 I’m always looking for self-motivated master students and undergraduate intern. If you’re interested, please feel free to contact me by email.
 
 # 🎖 Research Interests
+Our team’s research interests focus on the following areas:
+1. Representation learning；
+2. Data mining and computer vision problems in limited annotation scenarios;
+3. Applications of artificial intelligence in bioinformatics；
+4. Applications of artificial intelligence in geophysics；
 
 # 📖 Educations
 - *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie,School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
