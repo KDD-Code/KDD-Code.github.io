@@ -3,8 +3,13 @@ main:
   - title: "关于我"
     url: "/#about-me"
 
-  - title: "选取的发表文献"
+  - title: "教育背景"
+    url: "/#-educations"
+
+  - title: "合作"
+    url: "/#-collaboration"
+
+  - title: "选取的文献"
     url: "/#-selected-publications"
 
-  - title: "Educations"
-    url: "/#-educations"
+
