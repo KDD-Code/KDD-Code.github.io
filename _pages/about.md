@@ -40,49 +40,53 @@ Our team’s research interests focus on the following areas:
 - Geophysics Prof. Xinming Wu
 
 # 📝 Selected Publications 
-- [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, accepted by Neural Networks, 2024.(中科院SCI一区，CCF-B)
+- [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2024.(中科院SCI一区)
 
-- [MAMCL: Multi-attributes Masking Contrastive Learning for explainable seismic facies analysis](https://www.sciencedirect.com/science/article/pii/S0098300424002140), Long Han, Xinming Wu, Zhanxuan Hu, Jintao Li, Huijing Fang, accepted by Computers & Geosciences, 2024.(中科院SCI二区)
+- [Interactive attack-defense for generalized person re-identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, **Zhanxuan Hu**, Yafei Zhang, Zhengtao Yu, Neural Networks, 2024.(中科院SCI一区，通讯作者)
 
-- [Interactive attack-defense for generalized person re-identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, Zhanxuan Hu, Yafei Zhang, Zhengtao Yu, accepted by Neural Networks, 2024.(中科院SCI一区)
+- [Diverse semantic information fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024.(中科院SCI一区，通讯作者)
 
-- [Diverse semantic information fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, Zhanxuan Hu, Feiping Nie, accepted by Information Fusion, 2024.(中科院SCI一区)
-
-- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, accepted by IEEE Signal Processing Letters, 2024.(中科院SCI一区)
+- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024.(中科院SCI一区)
 
 - [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, accepted by Information Sciences, 2024.(中科院SCI一区)
 
-- [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Z Hu**, accepted by Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024.(中科院SCI一区)
+- [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Z Hu**, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024.(CCF-A类会议)
 
-- [An ensemble learning-enhanced multitask learning method for continuous affect recognition from facial images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, accepted by Expert Systems with Applications, 2024.(中科院SCI一区)
+- [An ensemble learning-enhanced multitask learning method for continuous affect recognition from facial images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024.(中科院SCI一区，通讯作者)
   
-- [Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), H Li, M Liu, **Z Hu**, F Nie and Z Yu, accepted by IEEE Transactions on Circuits and Systems for Video Technology (**IEEE-TCSVT**), 2023.(中科院SCI一区)
+- [Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie and Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology, 2023.(中科院SCI一区，通讯作者)
 
-- [Unsupervised contrastive learning for seismic facies characterization](https://library.seg.org/doi/abs/10.1190/geo2022-0148.1), J Li, X Wu, Y Ye, C Yang, **Z Hu**, X Sun and T Zhao, accepted by Geophysics, 2023.(中科院SCI一区)
+- [Mutual-taught deep clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023.(中科院SCI一区)
 
-- [Mutual-taught deep clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, accepted by Knowledge-Based Systems, 2023.(中科院SCI一区)
+- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems , 2022.(中科院SCI一区)
 
-- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), F Nie, X Dong, **Z Hu**, R Wang and X Li, accepted by IEEE Transactions on Neural Networks and Learning Systems (**IEEE-TNNLS**), 2022.(中科院SCI一区)
+- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022.(中科院SCI一区)
 
-- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), F Nie, **Z Hu**, X Wang, X Li and H Huang, accepted by IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022.(中科院SCI一区)
+- [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Zhanxuan Hu** and Feiping Nie, Information Sciences, 2022.(中科院SCI一区,通讯作者)
 
-- [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Z Hu** and Feiping Nie, accepted by Information Sciences (**INS**), 2022.(中科院SCI一区)
+- [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, accepted by Information Science, 2021.(中科院SCI一区)
 
-- [Audio-visual collaborative representation learning for Dynamic Saliency Prediction](https://www.sciencedirect.com/science/article/abs/pii/S0950705122008486), H Ning, B Zhao, **Z Hu**, L He, E Pei, accepted by Knowledge-Based Systems (**KBS**), 2022.(中科院SCI一区)
-
-- [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, accepted by Information Sciences (**INS**), 2021.(中科院SCI一区)
-
-- [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, accepted by Information Sciences (**INS**), 2021.(中科院SCI一区)
+- [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, accepted by Information Sciences, 2021.(中科院SCI一区)
 
 # 🎖 Founds
-- *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究,国家自然科学基金,青年项目(主持);
+- *2024.12-2029.12*, 面向云南文旅的视觉场景定位关键技术研究, 云南省"兴滇英才"青年人才项目(主持);
+- *2025.01-2027.01*, 基于视觉基础模型的图像表征学习方法研究, 云南省自然科学基金,面上项目(主持);
+- *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究, 国家自然科学基金,青年项目(主持);
 - *2023.01-2025.12*, 基于结构化先验的机器人动态光照环境稳定抓取检测方法研究, 国家自然科学基金, 面上项目 (参与);
 - *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (参与);
 
 # 📖 Gallery
-- 李嘉瀚
+- 有报考意愿，欢迎联系我的学生打听课题组的情况。
+  
+- 李嘉瀚（硕士，邮箱）
 
-- 黄鑫
+- 黄鑫（硕士，邮箱）
 
-- 邓禧丽
+- 邓禧丽（硕士，邮箱）
+
+- 徐琪钰（硕士，西安邮电大学）
+
+- 王怡晨（硕士，西安邮电大学）
+
+- 赵王栋（硕士，西安邮电大学）
 
