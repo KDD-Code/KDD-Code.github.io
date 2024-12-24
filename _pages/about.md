@@ -17,26 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an associate professor in School of Information Science and Technology at Yunnan Normal University, start from spring 2024. Before that, I was an associate professor at School of Computer Science and Technology,  Xi’an University of Posts and Telecommunications. I received the Ph.D. degree in Computer Science at Northwestern Polytechnical University in 2021, and received the B.E. degree in Electronic Information Engineering at Daqing Normal University in 2015.
+I am currently an Associate Professor in the School of Information Science and Technology at Yunnan Normal University, starting in Spring 2024. Previously, I served as an Associate Professor in the School of Computer Science and Technology at Xi’an University of Posts and Telecommunications. I earned my Ph.D. in Computer Science from Northwestern Polytechnical University in 2021 and my B.E. in Electronic Information Engineering from Daqing Normal University in 2015.
 
-I’m always looking for self-motivated master students and undergraduate intern. If you’re interested, please feel free to contact me by email.
+I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, feel free to reach out to me via email.
 
 # 🎖 Research Interests
 Our team’s research interests focus on the following areas:
-1. Representation learning；
-2. Data mining and computer vision problems in limited annotation scenarios;
+1. Image Representation learning；
+2. Computer vision problems in scenarios with limited annotations, especially in unmanned vision;
 3. Applications of artificial intelligence in bioinformatics；
-4. Applications of artificial intelligence in geophysics；
+4. Applications of artificial intelligence in geophysics.
 
 # 🔥 Services 
 - Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, etc.
 
 # 📖 Educations
-- *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie,School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
+- *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie, School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
 - *2011.09 - 2015.06*, B.E.Daqing Normal University.
 
 # 💻 Collaboration
-- Machine Learing, Computer vision and Time series analysis Prof. Feiping Nie
+- Machine Learning, Computer vision Prof. Feiping Nie
 - Geophysics Prof. Xinming Wu
 
 # 📝 Selected Publications 
@@ -48,19 +48,19 @@ Our team’s research interests focus on the following areas:
 
 - [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024.(中科院SCI一区)
 
-- [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, accepted by Information Sciences, 2024.(中科院SCI一区)
+- [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, accepted by Information Sciences, 2024. (中科院SCI一区)
 
-- [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Z Hu**, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024.(CCF-A类会议)
+- [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence, 2024. (CCF-A类会议)
 
-- [An ensemble learning-enhanced multitask learning method for continuous affect recognition from facial images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024.(中科院SCI一区，通讯作者)
+- [An ensemble learning-enhanced multitask learning method for continuous affect recognition from facial images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024. (中科院SCI一区，通讯作者)
   
-- [Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie and Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology, 2023.(中科院SCI一区，通讯作者)
+- [Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie and Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology, 2023. (中科院SCI一区，通讯作者)
 
 - [Mutual-taught deep clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023.(中科院SCI一区)
 
-- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems , 2022.(中科院SCI一区)
+- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems ,2022. (中科院SCI一区)
 
-- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022.(中科院SCI一区)
+- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022. (中科院SCI一区)
 
 - [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Zhanxuan Hu** and Feiping Nie, Information Sciences, 2022.(中科院SCI一区,通讯作者)
 
