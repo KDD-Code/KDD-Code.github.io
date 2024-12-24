@@ -40,9 +40,9 @@ Our team’s research interests focus on the following areas:
 - Geophysics Prof. Xinming Wu
 
 # 📝 Selected Publications 
-- [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, accepted by Neural Networks, 2024.(中科院SCI一区)
+- [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, accepted by Neural Networks, 2024.(中科院SCI一区，CCF-B)
 
-- [MAMCL: Multi-attributes Masking Contrastive Learning for explainable seismic facies analysis](https://www.sciencedirect.com/science/article/pii/S0098300424002140), Long Han, Xinming Wu, Zhanxuan Hu, Jintao Li, Huijing Fang, accepted by Computers & Geosciences, 2024.(中科院SCI一区)
+- [MAMCL: Multi-attributes Masking Contrastive Learning for explainable seismic facies analysis](https://www.sciencedirect.com/science/article/pii/S0098300424002140), Long Han, Xinming Wu, Zhanxuan Hu, Jintao Li, Huijing Fang, accepted by Computers & Geosciences, 2024.(中科院SCI二区)
 
 - [Interactive attack-defense for generalized person re-identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, Zhanxuan Hu, Yafei Zhang, Zhengtao Yu, accepted by Neural Networks, 2024.(中科院SCI一区)
 
