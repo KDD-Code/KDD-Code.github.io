@@ -78,18 +78,22 @@ Our team’s research interests focus on the following areas:
 # 📖 Gallery
 - 有报考意愿，欢迎联系我的学生打听课题组的情况。
   
-- 李嘉瀚（硕士，li_jiahan@outlook.com） 研究方向：VPR
+- 李嘉瀚（硕士，li_jiahan@outlook.com） 研究方向：视觉场景识别
   [[github]](https://github.com/JiahanLi418/A-CV-paper-repository)
 
-- 黄鑫（硕士，huangxin.0808@outlook.com） 研究方向：Protein
+- 黄鑫（硕士，huangxin.0808@outlook.com） 研究方向：蛋白质表征学习
   [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 
-- 邓禧丽（硕士，dengxili666@gmail.com） 研究方向：VPR
+- 邓禧丽（硕士，dengxili666@gmail.com） 研究方向：视觉场景识别
   [[github]](https://github.com/dengxili/papers/blob/main/index.md)
 
-- 徐琪钰（硕士，西安邮电大学）
+- 徐琪钰（硕士，西安邮电大学）研究方向：半监督学习、视觉场景定位
+  [[github]](https://github.com/Afleve/realistic-paper)
 
-- 王怡晨（硕士，西安邮电大学）
+- 王怡晨（硕士，西安邮电大学）研究方向：无监督学习、蛋白质表征学习
+  [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 
-- 赵王栋（硕士，西安邮电大学）
+- 赵王栋（硕士，西安邮电大学）研究方向：时间序列分析
+- 陈文洋（硕士，）研究方向：语义分割、伪装目标检测
+  [[github]](https://github.com/Sure-Fan/MyPaper)
 
