@@ -78,11 +78,14 @@ Our team’s research interests focus on the following areas:
 # 📖 Gallery
 - 有报考意愿，欢迎联系我的学生打听课题组的情况。
   
-- 李嘉瀚（硕士，li_jiahan@outlook.com） 研究方向：VPR [[github]](https://github.com/JiahanLi418/A-CV-paper-repository)
+- 李嘉瀚（硕士，li_jiahan@outlook.com） 研究方向：VPR
+  [[github]](https://github.com/JiahanLi418/A-CV-paper-repository)
 
 - 黄鑫（硕士，huangxin.0808@outlook.com） 研究方向：Protein
+  [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 
 - 邓禧丽（硕士，dengxili666@gmail.com） 研究方向：VPR
+  [[github]](https://github.com/dengxili/papers/blob/main/index.md)
 
 - 徐琪钰（硕士，西安邮电大学）
 
