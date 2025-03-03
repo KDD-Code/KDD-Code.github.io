@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Associate Professor in the School of Information Science and Technology at Yunnan Normal University, starting in Spring 2024. Previously, I served as an Associate Professor in the School of Computer Science and Technology at Xi’an University of Posts and Telecommunications. I earned my Ph.D. in Computer Science from Northwestern Polytechnical University in 2021 and my B.E. in Electronic Information Engineering from Daqing Normal University in 2015.
 
-I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, feel free to reach out to me via email(zhanxuanhu@gmail.com).
+I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, feel free to contact me via email(zhanxuanhu@gmail.com).
 
 # 🎖 Research Interests
 Our team’s research interests focus on the following areas:
@@ -40,13 +40,13 @@ Our team’s research interests focus on the following areas:
 - Geophysics Prof. Xinming Wu
 
 # 📝 Selected Publications 
-- [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2024.(中科院SCI一区)
+- [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2024. (中科院SCI一区)
 
 - [Interactive attack-defense for generalized person re-identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, **Zhanxuan Hu**, Yafei Zhang, Zhengtao Yu, Neural Networks, 2024.(中科院SCI一区，通讯作者)
 
 - [Diverse semantic information fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024.(中科院SCI一区，通讯作者)
 
-- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024.(中科院SCI一区)
+- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024. (中科院SCI一区)
 
 - [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, accepted by Information Sciences, 2024. (中科院SCI一区)
 
@@ -56,13 +56,13 @@ Our team’s research interests focus on the following areas:
   
 - [Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie and Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology, 2023. (中科院SCI一区，通讯作者)
 
-- [Mutual-taught deep clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023.(中科院SCI一区)
+- [Mutual-taught deep clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023. (中科院SCI一区)
 
-- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems ,2022. (中科院SCI一区)
+- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems,2022. (中科院SCI一区)
 
-- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022. (中科院SCI一区)
+- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022. (中科院SCI二区)
 
-- [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Zhanxuan Hu** and Feiping Nie, Information Sciences, 2022.(中科院SCI一区,通讯作者)
+- [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Zhanxuan Hu** and Feiping Nie, Information Sciences, 2022. (中科院SCI一区,通讯作者)
 
 - [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, accepted by Information Science, 2021.(中科院SCI一区)
 
@@ -76,7 +76,9 @@ Our team’s research interests focus on the following areas:
 - *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (参与);
 
 # 📖 Gallery
-- 有报考意愿，欢迎联系我的学生打听课题组的情况。
+- 有报考意愿，欢迎联系下面学生打听课题组的相关情况，我更倾向招有读博意向的学生。
+- 陈文洋（硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
+  [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
   
 - 李嘉瀚（硕士，li_jiahan@outlook.com） 研究方向：视觉场景识别
   [[github]](https://github.com/JiahanLi418/A-CV-paper-repository)
@@ -94,6 +96,5 @@ Our team’s research interests focus on the following areas:
   [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 
 - 赵王栋（硕士，西安邮电大学）研究方向：时间序列分析
-- 陈文洋（硕士，）研究方向：语义分割、伪装目标检测
-  [[github]](https://github.com/Sure-Fan/MyPaper)
+
 
