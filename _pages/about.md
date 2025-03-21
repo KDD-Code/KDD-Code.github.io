@@ -21,25 +21,28 @@ I am currently an Associate Professor in the School of Information Science and T
 
 I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, please feel free to contact me via email(zhanxuanhu@gmail.com).
 
-# 🎖 Research Interests(研究兴趣)
+# Research Interests(研究兴趣)
 Our team’s research interests focus on the following areas:
 1. Image Representation learning；
 2. Computer vision problems in scenarios with limited annotations, especially in unmanned vision;
 3. Applications of artificial intelligence in Medical and Biological；
 4. Applications of artificial intelligence in Geophysics.
+   
+# Other Interests(研究兴趣)
+My favorite activities are running and mountain climbing. If you are a marathon enthusiast, please feel free to contact me.
 
-# 🔥 Services（社会服务） 
+# Services（社会服务） 
 - Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, etc.
 
-# 📖 Educations（教育经历）
+# Educations（教育经历）
 - *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie, School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
 - *2011.09 - 2015.06*, B.E.Daqing Normal University.
 
-# 💻 Collaboration（合作）
+# Collaboration（合作）
 - Machine Learning, Computer vision Prof. Feiping Nie
 - Geophysics Prof. Xinming Wu
 
-# 📝 Selected Publications（代表性论文） 
+# Selected Publications（代表性论文） 
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
 
 - [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2025. (中科院SCI一区)
