@@ -17,33 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🎖 Basic Information(基本信息)
 I am currently an Associate Professor in the School of Information Science and Technology at Yunnan Normal University, starting in Spring 2024. Previously, I served as an Associate Professor in the School of Computer Science and Technology at Xi’an University of Posts and Telecommunications. I earned my Ph.D. in Computer Science from Northwestern Polytechnical University in 2021 and my B.E. in Electronic Information Engineering from Daqing Normal University in 2015.
 
 I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, please feel free to contact me via email(zhanxuanhu@gmail.com).
 
-# 🎖 Research Interests(研究兴趣)
+# 🎉 Research Interests(研究兴趣)
 Our team’s research interests focus on the following areas:
 1. Image Representation learning；
 2. Computer vision problems in scenarios with limited annotations, especially in unmanned vision;
 3. Applications of artificial intelligence in Medical and Biological；
 4. Applications of artificial intelligence in Geophysics.
    
-# 🎖 Other Interests(其他兴趣)
-My favorite activities are running and mountain climbing. If you are a marathon enthusiast, please feel free to contact me.
 
 # 🎖 Services（社会服务） 
 - Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, etc.
 
-# 🎖 Educations（教育经历）
+# 📖 Educations（教育经历）
 - *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie, School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
 - *2011.09 - 2015.06*, B.E.Daqing Normal University.
 
-# 🎖 Collaboration（合作）
-- Machine Learning, Computer vision Prof. Feiping Nie
-- Geophysics Prof. Xinming Wu
-
-# 🎖 Selected Publications（代表性论文） 
+# 📝 Selected Publications（代表性论文） 
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
 
 - [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2025. (中科院SCI一区)
@@ -74,14 +67,14 @@ My favorite activities are running and mountain climbing. If you are a marathon 
 
 - [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, accepted by Information Sciences, 2021.(中科院SCI一区)
 
-# 🎖 Founds
+# 🎉 Founds
 - *2024.12-2029.12*, 面向云南文旅的视觉场景定位关键技术研究, 云南省"兴滇英才"青年人才项目(主持);
 - *2025.01-2027.01*, 基于视觉基础模型的图像表征学习方法研究, 云南省自然科学基金,面上项目(主持);
 - *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究, 国家自然科学基金,青年项目(主持);
 - *2023.01-2025.12*, 基于结构化先验的机器人动态光照环境稳定抓取检测方法研究, 国家自然科学基金, 面上项目 (参与);
 - *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (参与);
 
-# 🎖 Gallery
+# 🔥 Gallery
 - 有报考意愿，欢迎联系下面学生打听课题组的相关情况，我更倾向招有读博意向+热爱运动（尤其跑步）的学生。
 - 陈文洋（2022硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
