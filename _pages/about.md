@@ -28,7 +28,7 @@ Our team’s research interests focus on the following areas:
 3. Applications of artificial intelligence in Medical and Biological；
 4. Applications of artificial intelligence in Geophysics.
    
-# Other Interests(研究兴趣)
+# Other Interests(其他兴趣)
 My favorite activities are running and mountain climbing. If you are a marathon enthusiast, please feel free to contact me.
 
 # Services（社会服务） 
