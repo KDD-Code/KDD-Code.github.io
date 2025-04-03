@@ -76,7 +76,10 @@ Our team’s research interests focus on the following areas:
 
 # 🔥 Gallery
 - 有报考意愿，欢迎联系下面学生打听课题组的相关情况，我更倾向招有读博意向+热爱运动（尤其跑步）的学生。
-- 陈文洋（2022硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
+  
+- 胡青松（2021级硕士，昆明理工大学，华东师范大学读博）研究方向：行人重识别、空间感知
+  
+- 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
   
 - 李嘉瀚（2024级硕士，li_jiahan@outlook.com） 研究方向：视觉场景识别
@@ -88,12 +91,14 @@ Our team’s research interests focus on the following areas:
 - 邓禧丽（2024级硕士，dengxili666@gmail.com） 研究方向：视觉场景识别
   [[github]](https://github.com/dengxili/papers/blob/main/index.md)
   
-- 王怡晨（2022级硕士，西安邮电大学，预期西北工业大学读博）研究方向：无监督学习、半监督学习
+- 王怡晨（2022级硕士，西安邮电大学，西北工业大学读博）研究方向：无监督学习、半监督学习
   [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
   
 - 徐琪钰（2023级硕士，西安邮电大学）研究方向：半监督学习、视觉场景定位
   [[github]](https://github.com/Afleve/realistic-paper)
 
 - 赵王栋（2023级硕士，西安邮电大学）研究方向：时间序列分析
+
+- 徐妍（2021级本科生，西安邮电大学，南开大学读研）研究方向：机器学习、数据挖掘
 
 
