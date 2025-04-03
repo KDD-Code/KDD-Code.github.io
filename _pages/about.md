@@ -74,10 +74,8 @@ Our team’s research interests focus on the following areas:
 - *2023.01-2025.12*, 基于结构化先验的机器人动态光照环境稳定抓取检测方法研究, 国家自然科学基金, 面上项目 (参与);
 - *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (参与);
 
-# 🔥 Gallery
-- 有报考意愿，欢迎联系下面学生打听课题组的相关情况，我更倾向招有读博意向+热爱运动（尤其跑步）的学生。
-  
-- 胡青松（2021级硕士，昆明理工大学，华东师范大学读博）研究方向：行人重识别、空间感知
+# 🔥 Group
+- **有报考意愿，欢迎联系下面学生打听课题组的相关情况，我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
   
 - 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
@@ -91,14 +89,16 @@ Our team’s research interests focus on the following areas:
 - 邓禧丽（2024级硕士，dengxili666@gmail.com） 研究方向：视觉场景识别
   [[github]](https://github.com/dengxili/papers/blob/main/index.md)
   
-- 王怡晨（2022级硕士，西安邮电大学，西北工业大学读博）研究方向：无监督学习、半监督学习
-  [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
-  
-- 徐琪钰（2023级硕士，西安邮电大学）研究方向：半监督学习、视觉场景定位
+- 徐琪钰（2023级硕士）研究方向：半监督学习、视觉场景定位
   [[github]](https://github.com/Afleve/realistic-paper)
 
-- 赵王栋（2023级硕士，西安邮电大学）研究方向：时间序列分析
-
-- 徐妍（2021级本科生，西安邮电大学，南开大学读研）研究方向：机器学习、数据挖掘
-
+- 赵王栋（2023级硕士）研究方向：时间序列分析
+  
+- **指导的毕业学生**：
+  
+- 胡青松（2021级硕士，华东师范大学读博）研究方向：行人重识别、空间感知
+  
+- 王怡晨（2022级硕士，西北工业大学读博）研究方向：无监督学习、半监督学习
+  
+- 徐妍（2021级本科生，南开大学读研）研究方向：机器学习、数据挖掘
 
