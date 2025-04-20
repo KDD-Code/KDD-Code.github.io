@@ -45,11 +45,11 @@ Our team’s research interests focus on the following areas:
 
 - [Diverse semantic information fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024.(中科院SCI一区，通讯作者)
 
-- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024. (中科院SCI一区)
+- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024. (中科院SCI二区)
 
-- [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, accepted by Information Sciences, 2024. (中科院SCI一区)
+- [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, Information Sciences, 2024. (中科院SCI一区)
 
-- [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence, 2024. (CCF-A类会议)
+- [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence, 2024. (CCF-A类会议，通讯作者)
 
 - [An ensemble learning-enhanced multitask learning method for continuous affect recognition from facial images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024. (中科院SCI一区，通讯作者)
   
@@ -63,19 +63,19 @@ Our team’s research interests focus on the following areas:
 
 - [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Zhanxuan Hu** and Feiping Nie, Information Sciences, 2022. (中科院SCI一区,通讯作者)
 
-- [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, accepted by Information Science, 2021.(中科院SCI一区)
+- [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, Information Science, 2021.(中科院SCI一区)
 
-- [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, accepted by Information Sciences, 2021.(中科院SCI一区)
+- [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, Information Sciences, 2021.(中科院SCI一区)
 
 # 🎉 Founds
 - *2024.12-2029.12*, 面向云南文旅的视觉场景定位关键技术研究, 云南省"兴滇英才"青年人才项目(主持);
-- *2025.01-2027.01*, 基于视觉基础模型的图像表征学习方法研究, 云南省自然科学基金,面上项目(主持);
-- *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究, 国家自然科学基金,青年项目(主持);
+- *2025.01-2027.01*, 基于视觉基础模型的图像表征学习方法研究, 云南省自然科学基金, 面上项目(主持);
+- *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究, 国家自然科学基金, 青年项目(主持);
 - *2023.01-2025.12*, 基于结构化先验的机器人动态光照环境稳定抓取检测方法研究, 国家自然科学基金, 面上项目 (参与);
 - *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (参与);
 
 # 🔥 Group
-- **有报考意愿，欢迎联系下面学生打听课题组的相关情况，我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
+- **我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
   
 - 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
