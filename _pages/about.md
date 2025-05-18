@@ -102,4 +102,12 @@ Our team’s research interests focus on the following areas:
   
 - 徐妍（2021级本科生，南开大学读研）研究方向：机器学习、数据挖掘
 
-#  Gallary
+# 💬 Gallery
+<div class='paper-box'>
+  <div class='paper-box-image-full'>
+    <div class="badge">Sensors 2022</div>
+    <a href='https://dx.doi.org/10.3390/s22093587' target='_blank'>
+      <img src='images/sensors2022.svg' alt="Sensors 2022 Paper" width="100%">
+    </a>
+  </div>
+</div>
