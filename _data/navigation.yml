@@ -12,9 +12,6 @@ main:
   - title: "Educations"
     url: "/#educations"
 
-  - title: "Collaboration"
-    url: "/#collaboration"
-
   - title: "Selected-publications"
     url: "/#selected-publications"
 
