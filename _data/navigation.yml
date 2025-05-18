@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Research Interests"
-    url: "/#-research-interests"
+    url: "/#research-interests"
 
   - title: "Services "
-    url: "/#-services"
+    url: "/#services"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/#educations"
 
   - title: "Collaboration"
-    url: "/#-collaboration"
+    url: "/#collaboration"
 
   - title: "Selected-publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Founds"
     url: "/#-founds"
