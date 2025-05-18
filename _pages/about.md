@@ -105,9 +105,6 @@ Our team’s research interests focus on the following areas:
 # 💬 Gallery
 <div class='paper-box'>
   <div class='paper-box-image-full'>
-    <div class="badge">Sensors 2022</div>
-    <a href='https://dx.doi.org/10.3390/s22093587' target='_blank'>
-      <img src='images/sensors2022.svg' alt="Sensors 2022 Paper" width="100%">
-    </a>
+      <img src='../images/group.jpg' width="50%">
   </div>
 </div>
