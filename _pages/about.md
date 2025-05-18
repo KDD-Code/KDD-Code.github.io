@@ -107,16 +107,14 @@ Our team’s research interests focus on the following areas:
 - 徐妍（2021级本科生，南开大学读研）研究方向：机器学习、数据挖掘
 
 # 💬 Gallery
----
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/group.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **云师大蓝花楹小路**
 
-**课题组第一次合照** 
+**课题组第一次合照** ，2025.05
 </div>
 </div>
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
+
 ---
