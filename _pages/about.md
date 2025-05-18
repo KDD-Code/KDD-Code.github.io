@@ -113,7 +113,9 @@ Our team’s research interests focus on the following areas:
 
 **云师大蓝花楹小路**
 
-**课题组第一次合照** ，2025.05
+**课题组第一次合照** 
+
+2025.05.12
 </div>
 </div>
 
