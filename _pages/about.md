@@ -109,7 +109,7 @@ Our team’s research interests focus on the following areas:
 # 💬 Gallery
 ---
 
-<div class='exp-box'> <div class='exp-box-image'><div><img src='../images/group.jpg' alt="sym" width="100%"></div></div>
+<div class='exp-box'> <div class='exp-box-image'><div><img src='../images/group.jpg' alt="sym" width="50%"></div></div>
 <div class='exp-box-text' markdown="1">
 
   **云师大蓝花楹小路**
