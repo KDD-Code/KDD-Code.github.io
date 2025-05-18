@@ -109,6 +109,10 @@ Our team’s research interests focus on the following areas:
 # 💬 Gallery
 <div class='paper-box'>
   <div class='paper-box-image-full'>
-      <img src='../images/group.jpg' width="50%">
+    <img src='../images/group.jpg' width="50%">
+    <!-- 新增文字说明容器 -->
+    <div class="image-caption">
+      <p>2025年5月12日 · 云南师范大学</p>
+    </div>
   </div>
 </div>
