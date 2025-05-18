@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor in the School of Information Science and Technology at Yunnan Normal University, starting in Spring 2024. Previously, I served as an Associate Professor in the School of Computer Science and Technology at Xi’an University of Posts and Telecommunications. I earned my Ph.D. in Computer Science from Northwestern Polytechnical University in 2021 and my B.E. in Electronic Information Engineering from Daqing Normal University in 2015.
+I am currently an Associate Professor in the School of Information Science and Technology at Yunnan Normal University, starting in Spring 2024. Previously, I served as an Associate Professor in the School of Computer Science and Technology at Xi’an University of Posts and Telecommunications. I earned my Ph.D. in Computer Science from Northwestern Polytechnical University in 2021.
 
 I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, please feel free to contact me via email(zhanxuanhu@gmail.com).
 
