@@ -41,7 +41,7 @@ Our team’s research interests focus on the following areas:
 
 # 📝 Selected Publications（代表性论文） 
 <span class='anchor' id='selected-publications'></span>
-- [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议)
+- [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议,通讯作者)
 - 
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
 
