@@ -1,28 +1,28 @@
 # main links links
 main:
-  - title: "About me"
+  - title: "个人简介"
     url: "/#about-me"
 
-  - title: "Research Interests"
-    url: "/#research-interests"
+  - title: "研究方向"
+    url: "/#研究方向"
 
-  - title: "Services "
-    url: "/#services"
+  - title: "社会服务 "
+    url: "/#社会服务"
 
-  - title: "Educations"
-    url: "/#educations"
+  - title: "教育经历"
+    url: "/#教育经历"
 
-  - title: "Selected-publications"
-    url: "/#selected-publications"
+  - title: "代表性论文"
+    url: "/#代表性论文"
 
-  - title: "Founds"
-    url: "/#-founds"
+  - title: "项目"
+    url: "/#-项目"
     
-  - title: "Group"
-    url: "/#-group"
+  - title: "课题组成员"
+    url: "/#-课题组成员"
 
-  - title: "Gallery"
-    url: "/#-gallery"
+  - title: "活动"
+    url: "/#-活动"
 
   
 
