@@ -17,29 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Associate Professor in the School of Information Science and Technology at Yunnan Normal University, starting in Spring 2024. Previously, I served as an Associate Professor in the School of Computer Science and Technology at Xi’an University of Posts and Telecommunications. I earned my Ph.D. in Computer Science from Northwestern Polytechnical University in 2021.
+户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师。2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位。主要研究方向为标注有限场景下的计算机视觉、数据挖掘问题。2021年7月-2024年2月在西安邮电大学工作，2024年2月入职云南师范大学。每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
 
-I am always seeking self-motivated master’s students and undergraduate interns. If you are interested, please feel free to contact me via email(zhanxuanhu@gmail.com).
-
-# 🎉 Research Interests(研究兴趣)
+# 🎉 研究方向
 <span class='anchor' id='research-interests'></span>
-Our team’s research interests focus on the following areas:
-1. Image Representation learning；
-2. Computer vision problems in scenarios with limited annotations, especially in unmanned vision;
-3. Applications of artificial intelligence in Medical and Biological；
-4. Applications of artificial intelligence in Geophysics.
+我们课题组的研究主要包括以下领域:
+1. 标注有限场景下的机器学习和数据挖掘算法，例如无监督学习、半监督学习、弱监督学习；
+2. 计算机视觉，例如：图像检索、行人重识别、语义分割;
+3. 人工智能在医学和生物信息中的应用；
+4. 人工智能在地球物理和遥感中的应用.
    
 
-# 🎖 Services（社会服务）
+# 🎖 社会服务
 <span class='anchor' id='services'></span>
-- Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, etc.
+- Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, PR, etc.
 
-# 📖 Educations（教育经历）
+# 📖 教育经历
 <span class='anchor' id='educations'></span>
-- *2017.09 - 2021.06*, Ph.D.Advisor: Prof. Feiping Nie, School of Artificial Intelligence, Optics and Electronics(iOPEN) Northwestern Polytechnical University. 
-- *2011.09 - 2015.06*, B.E.Daqing Normal University.
+- *2017.09 - 2021.06*, 博士, 光电与智能研究院, 西北工业大学.
+- *2015.09 - 2027.06*, 硕士, 理学院, 西北工业大学.
+- *2011.09 - 2015.06*, 学士, 数学科学学院, 大庆师范学院.
 
-# 📝 Selected Publications（代表性论文） 
+# 📝 代表性论文 
 <span class='anchor' id='selected-publications'></span>
 - [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议,通讯作者)
   
@@ -73,14 +72,14 @@ Our team’s research interests focus on the following areas:
 
 - [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, Information Sciences, 2021.(中科院SCI一区)
 
-# 🎉 Founds
+# 🎉 项目
 - *2024.12-2029.12*, 面向云南文旅的视觉场景定位关键技术研究, 云南省"兴滇英才"青年人才项目(主持);
 - *2025.01-2027.01*, 基于视觉基础模型的图像表征学习方法研究, 云南省自然科学基金, 面上项目(主持);
 - *2023.01-2025.12*, 基于代表性子集标注的大规模图像表征学习方法研究, 国家自然科学基金, 青年项目(主持);
 - *2023.01-2025.12*, 基于结构化先验的机器人动态光照环境稳定抓取检测方法研究, 国家自然科学基金, 面上项目 (参与);
 - *2023.12-2024.05*, 基于深度学习的油气智能检测技术研究 (参与);
 
-# 🔥 Group
+# 🔥 课题组成员
 - **我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
   
 - 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
@@ -108,7 +107,7 @@ Our team’s research interests focus on the following areas:
   
 - 徐妍（2021级本科生，南开大学读研）研究方向：机器学习、数据挖掘
 
-# 💬 Gallery
+# 💬 活动
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/group.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
