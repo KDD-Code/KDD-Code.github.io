@@ -17,20 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师。2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位。主要研究方向为标注有限场景下的计算机视觉、数据挖掘问题。2021年7月-2024年2月在西安邮电大学工作，2024年2月入职云南师范大学。每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
+户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师。2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位。主要研究方向为基于基础模型的机器学习和计算机视觉问题。2021年7月-2024年2月在西安邮电大学工作，2024年2月入职云南师范大学。每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
 
 # 🎉 研究方向
 <span class='anchor' id='research-interests'></span>
 我们课题组的研究主要包括以下领域:
-1. 标注有限场景下的机器学习和数据挖掘算法，例如无监督学习、半监督学习、弱监督学习；
-2. 计算机视觉，例如：图像检索、行人重识别、语义分割;
-3. 人工智能在医学和生物信息中的应用；
-4. 人工智能在地球物理和遥感中的应用.
+1. 基于基础模型的机器学习算法，例如无监督学习、半监督学习、弱监督学习；
+2. 计算机视觉，例如：图像检索、行人重识别、语义分割、3D重建等;
+3. 人工智能在地球物理和遥感中的应用.
    
 
 # 🎖 社会服务
 <span class='anchor' id='services'></span>
-- Journal Reviewer: IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, PR, etc.
+- Journal Reviewer: IEEE-TIP、IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, PR, etc.
 
 # 📖 教育经历
 <span class='anchor' id='educations'></span>
@@ -82,19 +81,19 @@ redirect_from:
 # 🔥 课题组成员
 - **我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
   
-- 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割、伪装目标检测
+- 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
   
-- 李嘉瀚（2024级硕士，li_jiahan@outlook.com） 研究方向：视觉场景识别
+- 李嘉瀚（2024级硕士，li_jiahan@outlook.com） 研究方向：行人重识别
   [[github]](https://github.com/JiahanLi418/A-CV-paper-repository)
 
-- 黄鑫（2024级硕士，huangxin.0808@outlook.com） 研究方向：蛋白质表征学习
+- 黄鑫（2024级硕士，huangxin.0808@outlook.com） 研究方向：半监督学习
   [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 
-- 邓禧丽（2024级硕士，dengxili666@gmail.com） 研究方向：视觉场景识别
+- 邓禧丽（2024级硕士，dengxili666@gmail.com） 研究方向：多标签图像分类
   [[github]](https://github.com/dengxili/papers/blob/main/index.md)
   
-- 徐琪钰（2023级硕士）研究方向：半监督学习、视觉场景定位
+- 徐琪钰（2023级硕士）研究方向：半监督学习
   [[github]](https://github.com/Afleve/realistic-paper)
 
 - 赵王栋（2023级硕士）研究方向：时间序列分析
