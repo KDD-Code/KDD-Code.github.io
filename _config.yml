@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "户战选"
-description              : "Associate Professor, Yunnan Normal University"
+description              : "副教授, 云南师范大学"
 repository               : "kdd-code/kdd-code.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhanxuan Hu"
+  name             : "Zhanxuan Hu(户战选)"
   avatar           : "images/hzx1.jpg"
-  bio              : "YunNan Normal University"
-  location         : "KunMing, China"
+  bio              : "云南师范大学"
+  location         : "云南-昆明"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=5z09EL0AAAAJ&view_op=list_works&sortby=pubdate"
