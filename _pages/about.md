@@ -122,4 +122,15 @@ redirect_from:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='/images/group.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**欢迎新成员加入**
+
+**   ** 
+
+*2025.10.16*
+</div>
+</div>
+
 ---
