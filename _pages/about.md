@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师. 2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位. 主要研究方向为标注有限场景下的机器学习和计算机视觉算法研究及其应用（自然图像、遥感图像、医学图像和3D场景的重建与理解）。2021年7月-2024年2月在西安邮电大学工作，2024年2月入职云南师范大学. 每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
+户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师. 2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位. 主要研究方向为标注有限场景下的机器学习和计算机视觉算法研究及其应用（自然图像、遥感图像、医学图像和3D场景的重建与理解）. 每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
 
 # 🎉 我的2025
 <span class='anchor' id='research-interests'></span>
@@ -83,21 +83,25 @@ redirect_from:
 # 🔥 课题组成员
 - **我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
 - 王阿康（2025级硕士）研究方向：语义分割
+  [[github]](https://wang-akang.github.io/MyPaper/)
 - 余书文（2025级硕士）研究方向：基于基础模型的3D重建和理解
-- 殷浩楠（2025级硕士）研究方向：遥感图像变化检测
-- 李嘉瀚（2024级硕士，li_jiahan@outlook.com） 研究方向：行人重识别
+[[github]](https://github.com/Yuteam14/MyPaper?tab=readme-ov-file#research-papers)
+- 殷浩楠（2025级硕士）研究方向：遥感图像处理
+  [[github]](https://github.com/Haonan776/paper)
+- 李嘉瀚（2024级硕士，li_jiahan@outlook.com） 研究方向：图像检索、行人重识别
   [[github]](https://github.com/JiahanLi418/A-CV-paper-repository)
 
-- 黄鑫（2024级硕士，huangxin.0808@outlook.com） 研究方向：半监督学习
+- 黄鑫（2024级硕士，huangxin.0808@outlook.com） 研究方向：无监督/半监督学习
   [[github]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 
 - 邓禧丽（2024级硕士，dengxili666@gmail.com） 研究方向：多标签图像分类
   [[github]](https://github.com/dengxili/papers/blob/main/index.md)
   
-- 徐琪钰（2023级硕士）研究方向：半监督学习
+- 徐琪钰（2023级硕士）研究方向：半监督学习，遥感3D生成
   [[github]](https://github.com/Afleve/realistic-paper)
 
 - 赵王栋（2023级硕士）研究方向：时间序列分析
+[[github]](https://github.com/WangdongZhao99/paper-repository?tab=readme-ov-file)
 - 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
   
