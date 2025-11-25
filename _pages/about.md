@@ -36,8 +36,6 @@ redirect_from:
 # 📖 教育经历
 <span class='anchor' id='educations'></span>
 - *2017.09 - 2021.06*, 博士, 光电与智能研究院, 西北工业大学.
-- *2015.09 - 2017.06*, 硕士, 理学院, 西北工业大学.
-- *2011.09 - 2015.06*, 学士, 数学科学学院, 大庆师范学院.
 
 # 📝 代表性论文 
 <span class='anchor' id='selected-publications'></span>
