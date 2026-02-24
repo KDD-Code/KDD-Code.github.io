@@ -19,14 +19,11 @@ redirect_from:
 
 户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师. 2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位. 主要研究方向为机器学习、计算机视觉和3D场景的重建与理解. 每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
 
-# 🎉 我的2025
+# 🎉 我的2026
 <span class='anchor' id='research-interests'></span>
-1. 2025-10-10：一篇论文被KBS接收；
-2. 2025-08-29：国家自然科学基金落榜；
-3. 2025-08-21：一篇论文被IEEE-TNNLS接收；
-4. 2025-06-26：一篇论文被ICCV接收；
-5. 2025-02-28：喜当爸爸，以后有了小棉袄护体；
-6. 2025-02-01：一篇论文被NN接收；
+
+1. 2026-02-21：一篇论文被CVPR接收；
+
    
 
 # 🎖 社会服务
@@ -39,6 +36,7 @@ redirect_from:
 
 # 📝 代表性论文 
 <span class='anchor' id='selected-publications'></span>
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), **Zhanxuan Hu**, Qiyu Xu,Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议)
 - [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems(IEEE-TNNLS), 2025. (中科院SCI一区,通讯作者)
 - [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议,通讯作者)
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
