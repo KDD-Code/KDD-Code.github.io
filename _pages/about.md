@@ -19,10 +19,10 @@ redirect_from:
 
 户战选，男，汉族，1991年1月出生，河南濮阳人，博士，副教授，硕士生导师. 2021年6月毕业于西北工业大学光电与智能研究院（导师：聂飞平），获工学博士学位. 主要研究方向为机器学习、计算机视觉和3D场景的重建与理解. 每年招收3-4名研究生，如果有意向请邮件提前联系（zhanxuanhu@gmail.com）。
 
-# 🎉 我的2026
+# 🎉 最新动态
 <span class='anchor' id='research-interests'></span>
 
-1. 2026-02-21：一篇论文被CVPR接收；
+1. 2026-02-21：两篇论文被CVPR接收（1 main conference, 1 in Findings）；
 
    
 
