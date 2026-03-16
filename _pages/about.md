@@ -22,7 +22,7 @@ redirect_from:
 # 🎉 最新动态
 <span class='anchor' id='research-interests'></span>
 
-1. 2026-02-21：两篇论文被CVPR接收（1 main conference, 1 in Findings）；
+1. 2026-02-21：两篇论文被CVPR 2026接收（1 main conference, 1 in Findings）；
 
    
 
