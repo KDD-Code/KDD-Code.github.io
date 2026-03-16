@@ -36,7 +36,9 @@ redirect_from:
 
 # 📝 代表性论文 
 <span class='anchor' id='selected-publications'></span>
-- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), **Zhanxuan Hu**, Qiyu Xu,Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议)
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), **Zhanxuan Hu**, Qiyu Xu,Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, main conference)
+- [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote
+Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, Findings)
 - [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems(IEEE-TNNLS), 2025. (中科院SCI一区,通讯作者)
 - [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议,通讯作者)
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
