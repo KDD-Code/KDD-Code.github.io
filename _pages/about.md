@@ -28,48 +28,32 @@ redirect_from:
 
 # 🎖 社会服务
 <span class='anchor' id='services'></span>
-- Journal Reviewer: IEEE-TIP、IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, PR, etc.
+- Reviewer: ICCV, CVPR, ECCV, AAAI, IEEE-TIP, IEEE-TNNLS, IEEE-TCSVT, IEEE-TIP, PR, etc.
 
 # 📖 教育经历
 <span class='anchor' id='educations'></span>
-- *2017.09 - 2021.06*, 博士, 光电与智能研究院, 西北工业大学.
+- *2017.09 - 2021.06*, 博士, 光电与智能研究院, 西北工业大学, 指导教师：聂飞平.
 
 # 📝 代表性论文 
 <span class='anchor' id='selected-publications'></span>
-- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), **Zhanxuan Hu**, Qiyu Xu,Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, main conference)
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, main conference)
 - [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote
 Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, Findings)
 - [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems(IEEE-TNNLS), 2025. (中科院SCI一区,通讯作者)
 - [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议,通讯作者)
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
-
 - [Prototypical classifier with distribution consistency regularization for generalized category discovery: A strong baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2025. (中科院SCI一区)
-
 - [Interactive attack-defense for generalized person re-identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, **Zhanxuan Hu**, Yafei Zhang, Zhengtao Yu, Neural Networks, 2024.(中科院SCI一区，通讯作者)
-
 - [Diverse semantic information fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024.(中科院SCI一区，通讯作者)
-
 - [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024. (中科院SCI二区)
-
 - [Neural collapse inspired semi-supervised learning with fixed classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, Information Sciences, 2024. (中科院SCI一区)
-
 - [Catalyst for Clustering-Based Unsupervised Object Re-identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), H Li, M Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence, 2024. (CCF-A类会议，通讯作者)
-
 - [An ensemble learning-enhanced multitask learning method for continuous affect recognition from facial images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024. (中科院SCI一区，通讯作者)
-  
 - [Intermediary-guided Bidirectional Spatial-Temporal Aggregation Network for Video-based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie and Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology, 2023. (中科院SCI一区，通讯作者)
-
 - [Mutual-taught deep clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023. (中科院SCI一区)
-
 - [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang and Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems,2022. (中科院SCI一区)
+- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022. (CCF-A)
 
-- [Iteratively Re-Weighted method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li and Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE-TKDE**), 2022. (中科院SCI二区)
-
-- [Improved deep metric learning with local neighborhood component analysis](https://www.sciencedirect.com/science/article/abs/pii/S0020025522012105), Danyang Wu, Han Wang, **Zhanxuan Hu** and Feiping Nie, Information Sciences, 2022. (中科院SCI一区,通讯作者)
-
-- [Generalization Bottleneck in Deep Metric Learning](https://www.sciencedirect.com/science/article/pii/S0020025521009543), **Zhanxuan Hu**, Danang Wu, Feiping Nie, Rong Wang*, Information Science, 2021.(中科院SCI一区)
-
-- [Learning to Hash based on Angularly Discriminative Embedding](https://www.sciencedirect.com/science/article/pii/S0020025521007374), **Zhanxuan Hu**, Shuzheng Hao, Feiping Nie, Rong Wang*, Xuelong Li, Information Sciences, 2021.(中科院SCI一区)
 
 # 🎉 项目
 - *2024.12-2029.12*, 面向云南文旅的视觉场景定位关键技术研究, 云南省"兴滇英才"青年人才项目(主持);
