@@ -22,7 +22,10 @@ redirect_from:
 # 🎉 最新动态
 <span class='anchor' id='research-interests'></span>
 
-1. 2026-02-21：两篇论文被CVPR 2026接收（1 main conference, 1 in Findings）；
+-2026-02-21：两篇论文被CVPR 2026接收（1 main conference, 1 in Findings）；
+-2025-09-15：一篇论文被KBS接收
+-2025-06-15：一篇论文被IEEE TNNLS接收；
+-2025-04-25：一篇论文被ICCV 2025接收；
 
    
 
