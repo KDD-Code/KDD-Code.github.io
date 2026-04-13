@@ -24,7 +24,9 @@ redirect_from:
 
 -2026-02-21：两篇论文被CVPR 2026接收（1 main conference, 1 in Findings）；
 
--2025-09-15：一篇论文被KBS接收
+-2025-11-08：一篇论文被AAAI 2026接收；
+
+-2025-09-15：一篇论文被KBS接收；
 
 -2025-06-15：一篇论文被IEEE TNNLS接收；
 
