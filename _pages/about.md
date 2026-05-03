@@ -24,7 +24,7 @@ redirect_from:
 
 -2026-05-01：两篇论文被ICML 2026接收；
 
--2026-02-21：两篇论文被CVPR 2026接收（1 main conference, 1 in Findings）；
+-2026-02-21：两篇论文被CVPR 2026接收(1 main conference, 1 in Findings)；
 
 -2025-11-08：一篇论文被AAAI 2026接收；
 
@@ -46,7 +46,9 @@ redirect_from:
 
 # 📝 代表性论文 
 <span class='anchor' id='selected-publications'></span>
-- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, main conference)
+- [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](https://arxiv.org/pdf/2506.13723), Shuwen Yu, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning(ICML), 2026. (CCF-A类会议, 通讯作者)
+- [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2506.13723), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning(ICML), 2026. (CCF-A类会议, 通讯作者)
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, main conference)
 - [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote
 Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, Findings)
 - [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems(IEEE-TNNLS), 2025. (中科院SCI一区,通讯作者)
