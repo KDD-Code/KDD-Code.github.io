@@ -85,7 +85,7 @@ redirect_from:
   `CCF-A` `Main Conference`
 
 - [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
-  `CCF-A`
+  `CCF-A` `Findings`
 
 ## 2025
 
