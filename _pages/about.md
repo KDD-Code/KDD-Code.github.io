@@ -18,33 +18,23 @@ redirect_from:
 <style>
 .badge {
   display: inline-block;
-  padding: 2px 7px;
-  margin: 2px 3px 2px 0;
-  border-radius: 6px;
-  font-size: 0.78em;
+  margin: 0 4px 0 0;
+  font-size: 0.88em;
   font-weight: 600;
   line-height: 1.4;
   white-space: nowrap;
 }
 .badge-ccfa {
-  color: #8B0000;
-  background-color: #FDECEC;
-  border: 1px solid #F5B7B1;
+  color: #B22222;
 }
 .badge-sci {
-  color: #0B5CAD;
-  background-color: #EAF3FF;
-  border: 1px solid #B7D7F7;
+  color: #1F5FA8;
 }
 .badge-author {
-  color: #7A4B00;
-  background-color: #FFF4D6;
-  border: 1px solid #F2D083;
+  color: #8A5A00;
 }
 .badge-main {
-  color: #0B6B3A;
-  background-color: #E9F8EF;
-  border: 1px solid #A9DFC0;
+  color: #2E7D32;
 }
 </style>
 
