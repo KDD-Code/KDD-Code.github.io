@@ -108,65 +108,47 @@ redirect_from:
 
 ## 2026
 
-- [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](https://arxiv.org/pdf/2506.13723), Shuwen Yu, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
-  <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
+- [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](https://arxiv.org/pdf/2506.13723), Shuwen Yu, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026. <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2506.13723), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
-  <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
+- [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2506.13723), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026. <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
-  <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-main">Main Conference</span>
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-main">Main Conference</span>
 
-- [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
-  <span class="badge badge-ccfa">CCF-A</span>
+- [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026. <span class="badge badge-ccfa">CCF-A</span>
 
 ## 2025
 
-- [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2025.  
-  <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
+- [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2025. <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025.  
-  <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
+- [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2025. <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [Mutual-support Generalized Category Discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025.  
-  <span class="badge badge-sci">SCI Q1</span>
+- [Mutual-support Generalized Category Discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. <span class="badge badge-sci">SCI Q1</span>
 
-- [Prototypical Classifier with Distribution Consistency Regularization for Generalized Category Discovery: A Strong Baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2025.  
-  <span class="badge badge-sci">SCI Q1</span>
+- [Prototypical Classifier with Distribution Consistency Regularization for Generalized Category Discovery: A Strong Baseline](https://www.sciencedirect.com/science/article/pii/S0893608024008372), **Zhanxuan Hu**, Yu Duan, Yaming Zhang, Rong Wang, Feiping Nie, Neural Networks, 2025. <span class="badge badge-sci">SCI Q1</span>
 
 ## 2024
 
-- [Interactive Attack-Defense for Generalized Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, **Zhanxuan Hu**, Yafei Zhang, Zhengtao Yu, Neural Networks, 2024.  
-  <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
+- [Interactive Attack-Defense for Generalized Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S0893608024002739), Huafeng Li, Chen Zhang, **Zhanxuan Hu**, Yafei Zhang, Zhengtao Yu, Neural Networks, 2024. <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [Diverse Semantic Information Fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024.  
-  <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
+- [Diverse Semantic Information Fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024. <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024.  
-  <span class="badge badge-sci">SCI Q2</span>
+- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024. <span class="badge badge-sci">SCI Q2</span>
 
-- [Neural Collapse Inspired Semi-Supervised Learning with Fixed Classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, Information Sciences, 2024.  
-  <span class="badge badge-sci">SCI Q1</span>
+- [Neural Collapse Inspired Semi-Supervised Learning with Fixed Classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, Information Sciences, 2024. <span class="badge badge-sci">SCI Q1</span>
 
-- [Catalyst for Clustering-Based Unsupervised Object Re-Identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024.  
-  <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
+- [Catalyst for Clustering-Based Unsupervised Object Re-Identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024. <span class="badge badge-ccfa">CCF-A</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [An Ensemble Learning-Enhanced Multitask Learning Method for Continuous Affect Recognition from Facial Images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024.  
-  <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
+- [An Ensemble Learning-Enhanced Multitask Learning Method for Continuous Affect Recognition from Facial Images](https://www.sciencedirect.com/science/article/pii/S095741742301792X), Ercheng Pei, **Zhanxuan Hu**, Lang He, Hailong Ning, Abel Díaz Berenguer, Expert Systems with Applications, 2024. <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
 
 ## 2023 and Before
 
-- [Intermediary-Guided Bidirectional Spatial-Temporal Aggregation Network for Video-Based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie, Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2023.  
-  <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
+- [Intermediary-Guided Bidirectional Spatial-Temporal Aggregation Network for Video-Based Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/abstract/document/10047982), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Feiping Nie, Zhengtao Yu, IEEE Transactions on Circuits and Systems for Video Technology (**IEEE TCSVT**), 2023. <span class="badge badge-sci">SCI Q1</span> <span class="badge badge-author">Corresponding Author</span>
 
-- [Mutual-Taught Deep Clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023.  
-  <span class="badge badge-sci">SCI Q1</span>
+- [Mutual-Taught Deep Clustering](https://www.sciencedirect.com/science/article/pii/S095070512300850X), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Danyang Wu, Feiping Nie, Knowledge-Based Systems, 2023. <span class="badge badge-sci">SCI Q1</span>
 
-- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2022.  
-  <span class="badge badge-sci">SCI Q1</span>
+- [Discriminative Projected Clustering via Unsupervised LDA](https://ieeexplore.ieee.org/abstract/document/9895200), Feiping Nie, Xia Dong, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems (**IEEE TNNLS**), 2022. <span class="badge badge-sci">SCI Q1</span>
 
-- [Iteratively Re-Weighted Method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li, Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2022.  
-  <span class="badge badge-ccfa">CCF-A</span>
+- [Iteratively Re-Weighted Method for Sparsity-Inducing Norms](https://ieeexplore.ieee.org/abstract/document/9787082), Feiping Nie, **Zhanxuan Hu**, Xiaoqian Wang, Xuelong Li, Heng Huang, IEEE Transactions on Knowledge and Data Engineering (**IEEE TKDE**), 2022. <span class="badge badge-ccfa">CCF-A</span>
 
 <span class='anchor' id='projects'></span>
 
