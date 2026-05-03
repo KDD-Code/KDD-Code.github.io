@@ -22,7 +22,7 @@ redirect_from:
 # 🎉 最新动态
 <span class='anchor' id='research-interests'></span>
 
--2026-05-01：两篇论文被ICML 2026接收；
+-2026-05-01：两篇论文被ICML 2026接收(恭喜阿康(研一)和书文(研一))；
 
 -2026-02-21：两篇论文被CVPR 2026接收(1 main conference, 1 in Findings)；
 
@@ -50,7 +50,7 @@ redirect_from:
 - [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2506.13723), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning(ICML), 2026. (CCF-A类会议, 通讯作者)
 - [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, main conference)
 - [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote
-Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, Findings)
+Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai*, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2026. (CCF-A类会议, Findings)
 - [Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery](https://ieeexplore.ieee.org/abstract/document/11134045/), Yu Duan, Feiping Nie, Huimin Chen, **Zhanxuan Hu**, Rong Wang, Xuelong Li, IEEE Transactions on Neural Networks and Learning Systems(IEEE-TNNLS), 2025. (中科院SCI一区,通讯作者)
 - [A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Qiyu Xu, **Zhanxuan Hu**, Ercheng Pei, Yu Duan, Yonghang Tai, Proceedings of the IEEE/CVF International Conference on Computer Vision(ICCV), 2025. (CCF-A类会议,通讯作者)
 - [Mutual-support generalized category discovery](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Yu Duan, **Zhanxuan Hu**, Rong Wang, Zhensheng Sun, Feiping Nie, Xuelong Li, Information Fusion, 2025. (中科院SCI一区)
@@ -76,9 +76,9 @@ Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S156
 
 # 🔥 课题组成员
 - **我更倾向招有读博意向+热爱运动（尤其跑步）的学生**：
-- 王阿康（2025级硕士）研究方向：语义分割
+- 王阿康（2025级硕士）研究方向：复杂场景理解
   [[github]](https://wang-akang.github.io/MyPaper/)
-- 余书文（2025级硕士）研究方向：基于基础模型的3D重建和理解
+- 余书文（2025级硕士）研究方向：视觉语言模型
 [[github]](https://github.com/Yuteam14/MyPaper?tab=readme-ov-file#research-papers)
 - 殷浩楠（2025级硕士）研究方向：遥感图像处理
   [[github]](https://github.com/Haonan776/paper)
@@ -94,18 +94,15 @@ Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S156
 - 徐琪钰（2023级硕士）研究方向：半监督学习，遥感3D生成
   [[github]](https://github.com/Afleve/realistic-paper)
 
-- 赵王栋（2023级硕士）研究方向：时间序列分析
-[[github]](https://github.com/WangdongZhao99/paper-repository?tab=readme-ov-file)
 - 陈文洋（2022级硕士，dog.yang000@gmail.com）研究方向：基础模型、语义分割
   [[github]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
   
 - **指导的毕业学生**：
-  
-- 胡青松（2021级硕士，华东师范大学读博）研究方向：行人重识别、空间感知
-  
-- 王怡晨（2022级硕士，西北工业大学读博）研究方向：无监督学习、半监督学习
-  
-- 徐妍（2021级本科生，南开大学读研）研究方向：机器学习、数据挖掘
+- 徐琪钰 （2023级硕士，西安交通大学读博）学术成果：ICCV(1)、CVPR(1)
+- 赵王栋（2023级硕士，西北工业大学读博）学术成果：KBS(1)
+- 胡青松（2021级硕士，华东师范大学读博）研究方向：AAAI(1)、Information Fusion(1)
+- 王怡晨（2022级硕士，西北工业大学读博）研究方向：KBS(1)、Information Sciences(1)
+- 徐妍（2021级本科生，南开大学读研）研究方向：IEEE Signal Processing Letters(1)
 
 # 💬 活动
 
