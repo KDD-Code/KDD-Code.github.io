@@ -22,6 +22,8 @@ redirect_from:
 # 🎉 最新动态
 <span class='anchor' id='research-interests'></span>
 
+-2026-05-01：两篇论文被ICML 2026接收；
+
 -2026-02-21：两篇论文被CVPR 2026接收（1 main conference, 1 in Findings）；
 
 -2025-11-08：一篇论文被AAAI 2026接收；
