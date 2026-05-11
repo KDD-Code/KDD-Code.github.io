@@ -150,11 +150,8 @@ redirect_from:
 - **李嘉瀚**，2024级硕士，研究方向：图像检索、行人重识别。[[GitHub]](https://github.com/JiahanLi418/A-CV-paper-repository)
 - **黄鑫**，2024级硕士，研究方向：无监督/半监督学习。[[GitHub]](https://github.com/Jcamza/A-Bioinformatics-Paper)
 - **邓禧丽**，2024级硕士，研究方向：多标签图像分类。[[GitHub]](https://github.com/dengxili/papers/blob/main/index.md)
-- **徐琪钰**，2023级硕士，研究方向：半监督学习、遥感三维生成。[[GitHub]](https://github.com/Afleve/realistic-paper)
-- **陈文洋**，2022级硕士，研究方向：基础模型、语义分割。[[GitHub]](https://github.com/Dog-Yang/Dense-prediction-Paper-with-Code/tree/main)
 
 ## 毕业学生
-
 - **徐琪钰**，2023级硕士，西安交通大学读博。学术成果：ICCV 1 篇、CVPR 1 篇。
 - **赵王栋**，2023级硕士，西北工业大学读博。学术成果：KBS 1 篇。
 - **胡青松**，2021级硕士，华东师范大学读博。学术成果：AAAI 1 篇、Information Fusion 1 篇。
