@@ -19,9 +19,9 @@ redirect_from:
 
 # 户战选 / Zhanxuan Hu
 
-户战选，博士，副教授，硕士生导师，现任云南师范大学信息学院教师。2021年6月毕业于西北工业大学光电与智能研究院，获工学博士学位，导师为聂飞平教授。主要研究方向包括机器学习、计算机视觉、视觉语言模型、图像表征学习以及三维场景重建与理解。
+户战选，博士，副教授，硕士生导师，现任云南师范大学信息学院教师。2021年6月毕业于西北工业大学光电与智能研究院，获工学博士学位，导师为聂飞平教授。主要研究方向包括机器学习、计算机视觉、以及三维场景重建与理解。
 
-近年来，围绕无监督/半监督图像表征学习、视觉基础模型迁移、开放场景识别与多模型协同推理等问题开展研究，在 CVPR、ICCV、ICML、AAAI、IEEE TIP、IEEE TNNLS、IEEE TKDE、IEEE TCSVT、Information Fusion等人工智能与计算机视觉领域重要会议和期刊发表论文多篇。
+近年来，围绕无监督/半监督图像表征学习、基础模型迁移、开放场景识别与多模型协同推理等问题开展研究，在 CVPR、ICCV、ICML、AAAI、IEEE TIP、IEEE TNNLS、IEEE TKDE、IEEE TCSVT、Information Fusion等人工智能与计算机视觉领域重要会议和期刊发表论文多篇。
 
 📧 Email: [zhanxuanhu@gmail.com](mailto:zhanxuanhu@gmail.com)
 
@@ -50,7 +50,7 @@ redirect_from:
 # 🎉 最新动态
 
 - **2026-05-01**：两篇论文被 **ICML 2026** 接收，恭喜阿康和书文！
-- **2026-02-21**：两篇论文被 **CVPR 2026** 接收，恭喜其钰。
+- **2026-02-21**：两篇论文被 **CVPR 2026** 接收，恭喜其钰和文洋。
 - **2025-11-08**：一篇论文被 **AAAI 2026** 接收。
 - **2025-09-15**：一篇论文被 **Knowledge-Based Systems** 接收，恭喜王栋。
 - **2025-06-15**：一篇论文被 **IEEE Transactions on Neural Networks and Learning Systems** 接收。
@@ -108,12 +108,6 @@ redirect_from:
 - [Diverse Semantic Information Fusion for Unsupervised Person Re-Identification](https://www.sciencedirect.com/science/article/pii/S1566253524000976), Qingsong Hu, Huafeng Li, **Zhanxuan Hu**, Feiping Nie, Information Fusion, 2024.  
   `SCI Q1` `Corresponding Author`
 
-- [Interactive Supervision for New Intent Discovery](https://ieeexplore.ieee.org/abstract/document/10564149), **Zhanxuan Hu**, Yan Xu, Lang He, Feiping Nie, IEEE Signal Processing Letters, 2024.  
-  `SCI Q2`
-
-- [Neural Collapse Inspired Semi-Supervised Learning with Fixed Classifier](https://www.sciencedirect.com/science/article/pii/S0020025524003827), **Zhanxuan Hu**, Yichen Wang, Hailong Ning, Yonghang Tai, Feiping Nie, Information Sciences, 2024.  
-  `SCI Q1`
-
 - [Catalyst for Clustering-Based Unsupervised Object Re-Identification: Feature Calibration](https://ojs.aaai.org/index.php/AAAI/article/view/28092), Huafeng Li, Minghui Liu, **Zhanxuan Hu**, Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2024.  
   `CCF-A` `Corresponding Author`
 
@@ -150,8 +144,8 @@ redirect_from:
 
 ## 在读学生
 
-- **王阿康**，2025级硕士，研究方向：复杂场景理解。[[GitHub]](https://wang-akang.github.io/MyPaper/)
-- **余书文**，2025级硕士，研究方向：视觉语言模型。[[GitHub]](https://github.com/Yuteam14/MyPaper?tab=readme-ov-file#research-papers)
+- **王阿康**，2025级硕士（ICML 1篇），研究方向：复杂场景理解。[[GitHub]](https://wang-akang.github.io/MyPaper/)
+- **余书文**，2025级硕士（ICML 1篇），研究方向：视觉语言模型。[[GitHub]](https://github.com/Yuteam14/MyPaper?tab=readme-ov-file#research-papers)
 - **殷浩楠**，2025级硕士，研究方向：遥感图像处理。[[GitHub]](https://github.com/Haonan776/paper)
 - **李嘉瀚**，2024级硕士，研究方向：图像检索、行人重识别。[[GitHub]](https://github.com/JiahanLi418/A-CV-paper-repository)
 - **黄鑫**，2024级硕士，研究方向：无监督/半监督学习。[[GitHub]](https://github.com/Jcamza/A-Bioinformatics-Paper)
