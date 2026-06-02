@@ -27,7 +27,7 @@ redirect_from:
 
 ## 🎓 招生信息
 
-每年计划招收 **3--4 名硕士研究生**。欢迎对机器学习、计算机视觉、三维场景重建和理解等方向感兴趣的同学提前邮件联系。
+每年计划招收 **3--4 名硕士研究生**。欢迎对机器学习、计算机视觉、三维场景重建和理解等方向感兴趣的同学提前邮件联系（此外，我要求学生发表的论文必须开源，公布训练和测试的细节）。
 
 我更倾向招收：
 
@@ -61,12 +61,6 @@ redirect_from:
 # 🎖 学术服务
 
 - Reviewer: CVPR, ICCV, ECCV, AAAI, IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, Pattern Recognition, etc.
-
-<span class='anchor' id='educations'></span>
-
-# 📖 教育经历
-
-- **2017.09 -- 2021.06**，西北工业大学，光电与智能研究院，工学博士，导师：聂飞平教授。
 
 <span class='anchor' id='selected-publications'></span>
 
