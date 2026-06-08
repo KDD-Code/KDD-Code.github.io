@@ -74,7 +74,7 @@ redirect_from:
 - [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2506.13723), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
   `CCF-A` `Corresponding Author`
 
-- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.（**Compute Transparency Champion🎉🎉🎉**）  
   `CCF-A` `Main Conference`
 
 - [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
