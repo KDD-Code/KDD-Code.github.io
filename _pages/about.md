@@ -20,9 +20,6 @@ redirect_from:
 # 户战选 / Zhanxuan Hu
 
 户战选，博士，副教授，硕士生导师，现任云南师范大学信息学院教师。2021年6月毕业于西北工业大学光电与智能研究院，获工学博士学位，导师为聂飞平教授。主要研究方向包括机器学习、计算机视觉、以及三维场景重建与理解。
-
-近年来，围绕无监督/半监督图像表征学习、基础模型迁移、开放场景识别与多模型协同推理等问题开展研究，在 CVPR、ICCV、ICML、AAAI、IEEE TIP、IEEE TNNLS、IEEE TKDE、IEEE TCSVT、Information Fusion等人工智能与计算机视觉领域重要会议和期刊发表论文多篇。
-
 📧 Email: [zhanxuanhu@gmail.com](mailto:zhanxuanhu@gmail.com)
 
 ## 🎓 招生信息
@@ -68,16 +65,16 @@ redirect_from:
 
 ## 2026
 
-- [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](https://arxiv.org/pdf/2506.13723), Shuwen Yu, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
+- [Geometry-Preserving Unsupervised Alignment for Heterogeneous Foundation Models](https://arxiv.org/abs/2606.04385), Shuwen Yu, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
   `CCF-A` `Corresponding Author`
 
-- [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2506.13723), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
+- [[CLS] is Not Enough: Multi-Label Recognition via Patch-Level Inference and Adaptive Aggregation](https://arxiv.org/pdf/2605.25821), Akang Wang, Xili Deng, **Zhanxuan Hu**, Yi Zhao, Yonghang Tai, Huafeng Li, Proceedings of the International Conference on Machine Learning (**ICML**), 2026.  
   `CCF-A` `Corresponding Author`
 
-- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://arxiv.org/pdf/2506.13723), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.（**Compute Transparency Champion🎉🎉🎉**）  
+- [SOTA: Self-adaptive Optimal Transport for Zero-Shot Classification with Multiple Foundation Models](https://openaccess.thecvf.com/content/CVPR2026/papers/Hu_SOTA_Self-adaptive_Optimal_Transport_for_Zero-Shot_Classification_with_Multiple_Foundation_CVPR_2026_paper.pdf), **Zhanxuan Hu**, Qiyu Xu, Yu Duan, Yonghang Tai, Huafeng Li, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.（**Compute Transparency Champion🎉🎉🎉**）  
   `CCF-A` `Main Conference`
 
-- [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000934), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
+- [ConInfer: Context-Aware Inference for Training-Free Open-Vocabulary Remote Sensing Segmentation](https://openaccess.thecvf.com/content/CVPR2026F/papers/Chen_ConInfer_Context-Aware_Inference_for_Training-Free_Open-Vocabulary_Remote_Sensing_Segmentation_CVPRF_2026_paper.pdf), Wenyang Chen, **Zhanxuan Hu**, Yaping Zhang, Hailong Ning, Yonghang Tai, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.  
   `CCF-A` `Findings`
 
 ## 2025
